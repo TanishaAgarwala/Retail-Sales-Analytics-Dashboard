@@ -82,8 +82,7 @@ Mostly negative except 2016 & 2024
 ✔ Restricts visuals to show **only India-region data** for certain users  
 ✔ Supports **enterprise-grade data governance & compliance**
 
-📸 *Screenshot Placeholder*  
-> Add: “RLS - Data filtered to India Region only”
+📸<img width="1298" height="543" alt="RLS" src="https://github.com/user-attachments/assets/d001f995-fbbc-4a14-a1d8-32f9e6ab61c0" />
 
 ---
 
@@ -93,7 +92,7 @@ Mostly negative except 2016 & 2024
 
 ---
 
-## 📊 Dashboard Pages<img width="1298" height="543" alt="RLS" src="https://github.com/user-attachments/assets/d001f995-fbbc-4a14-a1d8-32f9e6ab61c0" />
+## 📊 Dashboard Pages
 <img width="939" height="587" alt="Page-3" src="https://github.com/user-attachments/assets/72655795-b3b6-465a-9dad-67a9fe1b0346" />
 <img width="938" height="577" alt="Page-2" src="https://github.com/user-attachments/assets/6a90741f-4c56-4c5f-8cf6-6f58388893e6" />
 <img width="923" height="578" alt="Page-1" src="https://github.com/user-attachments/assets/b3ec4f5a-40c9-480a-a8d0-c18fd0965500" />
