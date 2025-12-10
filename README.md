@@ -74,7 +74,7 @@ Mostly negative except 2016 & 2024
 | **Visuals** | KPI Cards, Line + Bar Charts, Donut, Stacked Charts |
 | **Navigation** | Multi-page reporting (Executive, Customer, Product) |
 | **Performance Optimization** | Clean data model + measure tables |
-| **Security** | Row-Level Security (RLS) based on Country (India access only) |
+| **Security** | Row-Level Security (RLS) based on Country (India Region access only) |
 
 ---
 
@@ -93,14 +93,12 @@ Mostly negative except 2016 & 2024
 ---
 
 ## 📊 Dashboard Pages
-<img width="939" height="587" alt="Page-3" src="https://github.com/user-attachments/assets/72655795-b3b6-465a-9dad-67a9fe1b0346" />
-<img width="938" height="577" alt="Page-2" src="https://github.com/user-attachments/assets/6a90741f-4c56-4c5f-8cf6-6f58388893e6" />
+| **1️⃣ Executive Overview** | Revenue, Profit, YoY Growth |
 <img width="923" height="578" alt="Page-1" src="https://github.com/user-attachments/assets/b3ec4f5a-40c9-480a-a8d0-c18fd0965500" />
-
-
-| **1️⃣ Executive Overview** | Revenue, Profit, YoY Growth | Add Visual |
-| **2️⃣ Customer Insights** | CLTV, AOV, Top Customers | Add Visual |
-| **3️⃣ Product Performance** | Category & profitability breakdown | Add Visual |
+| **2️⃣ Customer Insights** | CLTV, AOV, Top Customers | 
+<img width="938" height="577" alt="Page-2" src="https://github.com/user-attachments/assets/6a90741f-4c56-4c5f-8cf6-6f58388893e6" />
+| **3️⃣ Product Performance** | Category & profitability breakdown |
+<img width="939" height="587" alt="Page-3" src="https://github.com/user-attachments/assets/72655795-b3b6-465a-9dad-67a9fe1b0346" />
 
 ---
 
@@ -108,9 +106,9 @@ Mostly negative except 2016 & 2024
 | Area | Strategy |
 |------|----------|
 | Growth Stability | Data-driven targeting, improve promo timing |
-| Customer Value | Middle-aged loyalty + personalized offers |
-| Product Expansion | Double-down on Clothing category |
-| Profitability | Monitor Sports/Home → discontinue low performers |
+| Customer Value | Middle-aged people showcase loyalty , promotional campaigns , offer would increase|
+| Product Expansion | Double-down on Clothing category to increase Revenue |
+| Profitability | Monitor Sports/Home → consider discontinue low performers to increase profitability |
 
 
 
